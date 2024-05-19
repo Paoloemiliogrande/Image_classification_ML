@@ -8,8 +8,10 @@ Below, you will find details about each dataset, including its purpose and where
 
 ### 1. Google Drive Link
 
-- **Purpose:** This link contains a subset of our primary datasets, suitable for initial testing and smaller-scale experiments.
-- **Download Link:** [Google Drive - Company Dataset]([https://drive.google.com/example](https://drive.google.com/drive/folders/1wuA87IKUZv5iAswmPLKIB3wvWAh2WjvP?usp=share_link))
+- **Purpose:** These links contain the datasets provided by the company and the dataset retrieved from the company one after manual labelling.
+- **Download Link:**
+  - [Google Drive - Company Dataset](https://drive.google.com/drive/folders/1wuA87IKUZv5iAswmPLKIB3wvWAh2WjvP?usp=share_link)
+  - [Google Drive - Labelled images](https://drive.google.com/drive/folders/1dvcofV59yLtktT6fI6gaFdPmhDWQ_-dt?usp=share_link)
 - **Usage Dataset "Data":** 
   - Used in the initial data exploration phase to understand data distribution and characteristics.
   - Labelled manually to then train our models.
