@@ -32,6 +32,7 @@ For the weights of the model please find out the folder "model_weights" which ca
 ## Additional Information
 
 In case of any problem with the data loading, please reach out our team. Below you can find our emails:
-- [Joshua Brauner(group referent)](joshua.brauner@studenti.luiss.it)
-- [Elisa Dobici](elisa.dobici@studenti.luiss.it)
-- [Paoloemilio Grande](paoloemilio.grande@studenti.luiss.it)
+
+- [Joshua Brauner (group referent)](mailto:joshua.brauner@studenti.luiss.it)
+- [Elisa Dobici](mailto:elisa.dobicil@studenti.luiss.it)
+- [Paoloemilio Grande](mailto:paoloemilio.grande@studenti.luiss.it)
