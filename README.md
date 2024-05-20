@@ -14,8 +14,8 @@ undesirable outcomes. Additionally, it is advisable to evaluate the model's perf
 new data to validate its robustness.
 
 ## Dataset Features
-• more than 2000 images of scanned documents in .tif format
-• 4 different classes (resumè, advertisement, emails, Handwritten documents)
+- more than 2000 images of scanned documents in .tif format
+- 4 different classes (resumè, advertisement, emails, Handwritten documents)
 
 ## Models used
 - **Transfer Learning** with *VGG16*
@@ -26,7 +26,7 @@ For the weights of the model please find out the folder "model_weights" which ca
 ## Structure of the repository
 - **EDA.ipynb**: self explanatory
 - **data** folder: it contains the links to download the document images required to perform this task
-- **models** folder: it contains the different notebooks used to train, test and evaluate our models. Although there's subfolder called **model_weights** from which you can download the weights of our models
+- **models** folder: it contains the different notebooks used to train, test and evaluate our models. Moreover there is subfolder called **model_weights** from which you can download the weights of our models
 
 
 ## Additional Information
