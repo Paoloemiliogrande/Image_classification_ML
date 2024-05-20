@@ -20,7 +20,6 @@ new data to validate its robustness.
 ## Models used
 - **Transfer Learning** with *VGG16*
 - **Deep Convolutional Neural Network**
-- **Region-based CNN**
 For the weights of the model please find out the folder "model_weights" which can be found in the folder "models"
 
 ## Structure of the repository
