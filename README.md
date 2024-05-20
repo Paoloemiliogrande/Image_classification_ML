@@ -26,6 +26,7 @@ For the weights of the model please find out the folder "model_weights" which ca
 ## Structure of the repository
 - **EDA.ipynb**: self explanatory
 - **data** folder: it contains the links to download the document images required to perform this task
+- **model** folder: it contains the notebooks used during this project and moreover a subfolder where the models' weights are stored
 
 
 ## Additional Information
